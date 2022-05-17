@@ -5,4 +5,4 @@
 How do we test this?
 1. 'mainnet-fork'
 2. 'development'
-3. 'testnet'
+3. 'testnet'# smartcontract-lottery
